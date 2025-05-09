@@ -3,16 +3,22 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Antônio Félix de Medeiros, tenho 19 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFIP. Sou apaixonado por tecnologia e sempre na busva por conhecimento.
-<p align="left">
-         <img alt="Seguidores"
-         title="Inscreva-se no meu GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Antonio-felix?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/>
-        </a>
-   </p>
+<div align="left">
+    <a href="https://www.instagram.com/a.felix980/">
+    <img 
+        src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
+        height="35" alt="instagram logo"/>
+    </a>
+    <a href="https://www.linkedin.com/in/antônio-félix980/">
+    <img 
+        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+        height="35" alt="linkedin logo"/>
+    </a>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
