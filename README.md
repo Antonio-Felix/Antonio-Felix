@@ -3,32 +3,36 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Antônio+Félix;FullStack+Developer;Next.js+%7C+Django+%7C+Tailwind" />
 </p>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Antonio-Felix&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Antonio-Felix?label=Followers&style=social"/>
-</p>
-
 ---
 
 # 👨🏻‍💻 Antônio Félix  
+
+<img align="right" alt="coding" width="180px" src="https://images.openai.com/static-rsc-4/kDbwE0zr9aCN2lWfueojSWznrYdF7Hs_XljZo49aEhnWcx6iPEa9BJHD2p4gyyX_ra-IxQEAJRzvvjEI1MRsiMa36qzkbLsaw9hBjo9tQAlNfWv1ofYZPlA6nFR8TJx_VLZIrSkI76-7CdMeATdQIy3i_55v10pH9guXfmgl6zU?purpose=inline">
 
 💻 **Desenvolvedor FullStack**  
 🎓 ADS - UNIFIP  
 📍 Paraíba, Brasil  
 
 Sou um desenvolvedor focado em criar aplicações web modernas, responsivas e escaláveis.  
-Atualmente evoluindo em **Next.js, APIs e arquitetura backend**.
+Tenho experiência com desenvolvimento front-end e back-end, além de vivência acadêmica com desenvolvimento de jogos.
 
 ---
 
 ## 🚀 Stacks
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,php,python,django,java,mysql,git" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,php,python,django,java,mysql,git" />
 </p>
+
+---
+
+## 🎮 Experiência complementar
+
+- 🎮 Desenvolvimento de jogos 2D com **Godot**
+- 🧠 Uso de **GDScript**
+- ⚙️ Aplicação de lógica de programação e sistemas
+
+> Experiência adquirida em projetos acadêmicos
 
 ---
 
@@ -45,7 +49,7 @@ Atualmente evoluindo em **Next.js, APIs e arquitetura backend**.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonio-Felix&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Felix&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Felix&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -55,7 +59,7 @@ Atualmente evoluindo em **Next.js, APIs e arquitetura backend**.
 - 🚀 Desenvolvimento FullStack completo
 - 🎨 Interfaces modernas com Tailwind
 - ⚙️ Integração backend com Django e PHP
-- 📈 Evolução constante e foco em performance
+- 📈 Foco em evolução contínua
 
 ---
 
