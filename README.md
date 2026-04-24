@@ -10,8 +10,7 @@
 <img align="right" alt="coding" width="180px" src="https://images.openai.com/static-rsc-4/kDbwE0zr9aCN2lWfueojSWznrYdF7Hs_XljZo49aEhnWcx6iPEa9BJHD2p4gyyX_ra-IxQEAJRzvvjEI1MRsiMa36qzkbLsaw9hBjo9tQAlNfWv1ofYZPlA6nFR8TJx_VLZIrSkI76-7CdMeATdQIy3i_55v10pH9guXfmgl6zU?purpose=inline">
 
 💻 **Desenvolvedor FullStack**  
-🎓 ADS - UNIFIP  
-📍 Paraíba, Brasil  
+🎓 ADS - UNIFIP
 
 Sou um desenvolvedor focado em criar aplicações web modernas, responsivas e escaláveis.  
 Tenho experiência com desenvolvimento front-end e back-end, além de vivência acadêmica com desenvolvimento de jogos.
