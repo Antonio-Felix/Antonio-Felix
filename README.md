@@ -1,41 +1,69 @@
-<!-- BANNER ANIMADO -->
+<!-- CABEÇALHO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Antônio+Félix;FullStack+Developer;Next.js+%7C+Django+%7C+Tailwind" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=200&section=header&text=Antônio%20Félix&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer&descAlignY=58&descSize=20" alt="Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00C2FF&size=22&center=true&vCenter=true&width=700&duration=3000&pause=1000&lines=Construindo+aplica%C3%A7%C3%B5es+web+modernas;Next.js+%7C+Django+%7C+Tailwind;Sempre+aprendendo,+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniofelix980/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/a.felix980/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Antonio-Felix&label=Visitas&color=00C2FF&style=for-the-badge" alt="Visitas"/>
 </p>
 
 ---
 
-# 👨🏻‍💻 Antônio Félix  
+## 👋 Sobre mim
 
-<img align="right" alt="coding" width="160px" src="https://images.openai.com/static-rsc-4/kDbwE0zr9aCN2lWfueojSWznrYdF7Hs_XljZo49aEhnWcx6iPEa9BJHD2p4gyyX_ra-IxQEAJRzvvjEI1MRsiMa36qzkbLsaw9hBjo9tQAlNfWv1ofYZPlA6nFR8TJx_VLZIrSkI76-7CdMeATdQIy3i_55v10pH9guXfmgl6zU?purpose=inline">
+Olá! Sou o **Antônio**, desenvolvedor FullStack e estudante de **Análise e Desenvolvimento de Sistemas na UNIFIP**.
 
-💻 **Desenvolvedor FullStack**  
-🎓 ADS - UNIFIP
+Gosto de transformar ideias em aplicações web **modernas, responsivas e escaláveis**, cuidando tanto da interface quanto da lógica por trás dela.
 
-Sou um desenvolvedor focado em criar aplicações web modernas, responsivas e escaláveis.  
-Tenho experiência com desenvolvimento front-end e back-end, além de vivência acadêmica com desenvolvimento de jogos.
+- 🔭 Atualmente focado em **Next.js** e **Django**
+- 🎮 Já desenvolvi jogos 2D com **Godot** (GDScript) em projetos acadêmicos
+- 🌱 Estudando arquitetura de software e integração de APIs
+- 💬 Pergunte-me sobre: desenvolvimento web, lógica de programação e game dev
 
 ---
 
-## 🚀 Stacks
+## 🛠️ Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,php,python,django,java,mysql,git" />
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,react" alt="Front-end" />
+</p>
+
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,php,java" alt="Back-end" />
+</p>
+
+**Banco de dados, ferramentas e game dev**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,godot" alt="Ferramentas" />
 </p>
 
 ---
 
-## 🎮 Experiência complementar
+## 📌 Projetos em destaque
 
-- 🎮 Desenvolvimento de jogos 2D com **Godot**
-- 🧠 Uso de **GDScript**
-- ⚙️ Aplicação de lógica de programação e sistemas
+<!-- Substitua pelos seus projetos reais -->
 
-> Experiência adquirida em projetos acadêmicos
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [**Nome do projeto 1**](https://github.com/Antonio-Felix/REPO1) | Uma frase sobre o que ele faz e o problema que resolve | Next.js, Tailwind |
+| [**Nome do projeto 2**](https://github.com/Antonio-Felix/REPO2) | Uma frase sobre o que ele faz e o problema que resolve | Django, MySQL |
+| [**Nome do projeto 3**](https://github.com/Antonio-Felix/REPO3) | Jogo 2D desenvolvido em projeto acadêmico | Godot, GDScript |
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Em estudo
 
 - ⚡ Next.js avançado (SSR, SSG, API Routes)
 - 🧩 Arquitetura de software
@@ -44,38 +72,19 @@ Tenho experiência com desenvolvimento front-end e back-end, além de vivência 
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Antonio-Felix&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Felix&layout=compact&theme=tokyonight"/>
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-## 🏆 Destaques
+## 🤝 Vamos conversar?
 
-- 🚀 Desenvolvimento FullStack completo
-- 🎨 Interfaces modernas com Tailwind
-- ⚙️ Integração backend com Django e PHP
-- 📈 Foco em evolução contínua
-
----
-
-## 🌐 Contato
+Estou aberto a oportunidades, projetos e trocas de conhecimento. Se curtiu algo por aqui, fique à vontade para entrar em contato!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antoniofelix980/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/a.felix980/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
-
----
-
-<!-- GIF OPCIONAL -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=100&section=footer" alt="Rodapé" />
 </p>
