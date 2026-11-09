@@ -65,7 +65,7 @@ Tenho experiência com desenvolvimento front-end e back-end, além de vivência 
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antônio-félix980/">
+  <a href="https://www.linkedin.com/in/antoniofelix980/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/a.felix980/">
