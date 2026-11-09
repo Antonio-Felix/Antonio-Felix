@@ -51,18 +51,6 @@ Gosto de transformar ideias em aplicações web **modernas, responsivas e escal�
 
 ---
 
-## 📌 Projetos em destaque
-
-<!-- Substitua pelos seus projetos reais -->
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**Nome do projeto 1**](https://github.com/Antonio-Felix/REPO1) | Uma frase sobre o que ele faz e o problema que resolve | Next.js, Tailwind |
-| [**Nome do projeto 2**](https://github.com/Antonio-Felix/REPO2) | Uma frase sobre o que ele faz e o problema que resolve | Django, MySQL |
-| [**Nome do projeto 3**](https://github.com/Antonio-Felix/REPO3) | Jogo 2D desenvolvido em projeto acadêmico | Godot, GDScript |
-
----
-
 ## 🧠 Em estudo
 
 - ⚡ Next.js avançado (SSR, SSG, API Routes)
